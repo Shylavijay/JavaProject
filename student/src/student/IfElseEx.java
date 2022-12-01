@@ -3,7 +3,7 @@ package student;
 public class IfElseEx {
 public static void main(String args [])
 {
-	int Num=0;
+	int Num=-4;
 	if(Num>0)
 	{
 		System.out.println("Positive Number");
